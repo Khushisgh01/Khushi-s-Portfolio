@@ -38,9 +38,9 @@ const Contact = () => {
         import.meta.env.VITE_APP_EMAILJS_TEMPLATE_ID,
         {
           from_name: form.name,
-          to_name: "Your Name", // Replace with your actual name
+          to_name: "Khushi", 
           from_email: form.email,
-          to_email: "your_actual_email@gmail.com", // Replace with your receiving email address
+          to_email: "khushisarrojj@gmail.com", 
           message: form.message,
         },
         import.meta.env.VITE_APP_EMAILJS_PUBLIC_KEY
