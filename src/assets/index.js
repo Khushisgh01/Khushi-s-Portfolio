@@ -40,6 +40,7 @@ import tesla from "./company/tesla.png";
 import sheharfix from "./sheharfix.png";
 import travel from "./travel.png";
 import studyhub from "./studyhub.png";
+import roomsy from "./roomsy.png";
 
 export {
   logo,
@@ -49,6 +50,7 @@ export {
   web,
   github,
   menu,
+  roomsy,
   close,
   css,
   docker,
